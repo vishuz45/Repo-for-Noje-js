@@ -16,9 +16,9 @@
 
    "devDependencies": {
 
-      "mocha": "1.20.1",
+      "mocha": "20.8.0",
 
-      "supertest": "20.8.0"
+      "supertest": "0.13.0"
 
    }
 
